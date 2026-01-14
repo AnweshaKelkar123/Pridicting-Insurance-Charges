@@ -1,14 +1,13 @@
 **Aim:** To predict customer healthcare costs using the power of machine learning.  
 
 **Dataset Summary:** insurance.csv
-Columns:
-age: Age of the primary beneficiary.
-sex: Gender of the insurance contractor (male or female).
-bmi: Body mass index, a key indicator of body fat based on height and weight.
-children: Number of dependents covered by the insurance plan.
-smoker:	Indicates whether the beneficiary smokes (yes or no).
-region:	The beneficiary's residential area in the US, divided into four regions.
-charges: Individual medical costs billed by health insurance.
+1. age: Age of the primary beneficiary.
+2. sex: Gender of the insurance contractor (male or female).
+3. bmi: Body mass index, a key indicator of body fat based on height and weight.
+4. children: Number of dependents covered by the insurance plan.
+5. smoker:	Indicates whether the beneficiary smokes (yes or no).
+6. region:	The beneficiary's residential area in the US, divided into four regions.
+7. charges: Individual medical costs billed by health insurance.
 
 **Steps Involved:**
 1. Load Data: Read insurance.csv for training and validation_dataset.csv for predictions.
