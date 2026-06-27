@@ -1,4 +1,4 @@
-**Aim:** To predict customer healthcare costs using the power of machine learning.  
+**Aim:** To predict customer healthcare costs.  
 
 **Dataset Summary:** insurance.csv
 1. age: Age of the primary beneficiary.
